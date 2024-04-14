@@ -1,3 +1,7 @@
+# Name: Zeel Patel
+
+# Student Number : 041064214
+
 # designo-multipage-website (Frontend Mentor)
 
 This is my personal solution to the [designo-multipage-website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/designo-multipage-website-G48K6rfUT).
